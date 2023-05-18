@@ -1,0 +1,21 @@
+1. WWW e sistem koj ni ovozmozuva da pristapime do 
+dokumenti i drugi resurski koristejki internet konekcija.
+2. Klientot isprakja request poraki,
+ a serverot ni odgovara so response poraki
+ 3. Node js e Java skript rabotna okolina ili 
+ platforma za serverska strana na Java skript, a 
+ express e framework za Node js za izrabotka na web aplikacii.
+ 4. MVC arhitektura e nacin na izrabotka na aplikacija 
+ koj ja deli aplikacijata na model(logika na podatoci so koj raboti korisnikot),
+  view(prikaz koj go dobiva korisnikot(korisnicki interfejs))
+   i kontroler (ja obrabotuva logikata i manipulira so podatocite).
+5. Ruti se pateki koi ni davaat(obrabotuvaat) odredeni podatoci soodvetni za taa ruta
+6. Modulite se blokovi od kod koi komuniciraat so aplikacijata
+(osnovni moduli, lokalni moduli, third-party moduli)
+7. Nacin na komunikacija(softver, aplikacija) pomegju dve strani preku mreza.
+8. JWT e nacin na spodeluvanje na bezbednosni informacii,
+toj sodrzi kodirani podatoci koi ovozmozuvaat odreden korisnik da pristapi do odredena lokacija.
+9.  MongoDB e program za kreiranje i skladiranje na bazi na podatoci(NoSQL),
+ kako i rabota so podatocite.
+ 10. MongoDB e baza na podatoci, a mongoose e biblioteka za za MongoDB,
+ 11. Asinhrona funkcija e neblokiracka, sinhrona e blokiracka funkcija.
